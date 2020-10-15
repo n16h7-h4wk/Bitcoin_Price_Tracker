@@ -1,2 +1,2 @@
 # Bitcoin_Price_Tracker
-Application to track bitcoin price(average) with respect to different physical currencies.
+Application to track average bitcoin price with respect to different physical currencies.
